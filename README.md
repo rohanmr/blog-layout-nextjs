@@ -7,6 +7,9 @@ Download and Run By Below the Following Steps:
 First, run the development server:
 
 ```bash
+
+npm install
+# or
 npm run dev
 # or
 yarn dev
