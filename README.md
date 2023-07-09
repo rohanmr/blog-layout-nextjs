@@ -19,7 +19,7 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+You can start editing the page by modifying `app/page.js.` The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
@@ -31,10 +31,6 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## Image of BlogPage:
 
 ![screenshot (3)](https://github.com/rohanmr/blog-layout-nextjs/assets/122428641/32eeef81-ce2c-4fda-bee8-4fef25acf9c0)
-
-
-
-
 
 ## Learn More
 
