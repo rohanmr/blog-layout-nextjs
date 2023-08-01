@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Download and Run By Below the Following Steps:
 
-## 1st, Install all Packages:
+## First, Install all Packages:
 
 ```bash
 
