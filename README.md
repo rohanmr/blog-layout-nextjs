@@ -28,7 +28,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ![Screenshot 2023-05-18 203903](https://github.com/rohanmr/blog-layout-nextjs/assets/122428641/4d49d9be-3317-451c-bc0b-b33c2667ea2f)
 
 
-## Interface Image of Single Blog Page:
+## Interface of Single Blog Page:
 
 ![screenshot (3)](https://github.com/rohanmr/blog-layout-nextjs/assets/122428641/32eeef81-ce2c-4fda-bee8-4fef25acf9c0)
 
