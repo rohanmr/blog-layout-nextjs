@@ -23,12 +23,12 @@ You can start editing the page by modifying `app/page.js.` The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Interface of Blog Card:
+## User Interface of Blog Card:
 
 ![Screenshot 2023-05-18 203903](https://github.com/rohanmr/blog-layout-nextjs/assets/122428641/4d49d9be-3317-451c-bc0b-b33c2667ea2f)
 
 
-## Interface of Single Blog Page:
+## User Interface of Single Blog Page:
 
 ![screenshot (3)](https://github.com/rohanmr/blog-layout-nextjs/assets/122428641/32eeef81-ce2c-4fda-bee8-4fef25acf9c0)
 
